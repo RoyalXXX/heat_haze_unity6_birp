@@ -8,7 +8,7 @@ This project showcases a customizable Heat Haze (heat distortion) effect impleme
 ## Key features:
 Camera-based radius limitation — The heat distortion only appears within a defined distance from the camera, creating a focused effect zone that follows the player's view.
 
-**Adjustable parameters** — Easily configure:
+**Adjustable parameters** — Easily configure.
 
 **Radius** — Control how far from the camera the distortion is visible.
 
